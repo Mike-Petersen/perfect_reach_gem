@@ -1,0 +1,8 @@
+perfect_reach: # test@perfect-reach.com dummy account
+  api_key: FEXyMlAdJSwVBaRm9xmXoI6AHEqutVa3pBaZEhFE
+  host: api.lvh.me
+  port: 3000
+  use_https: false
+#  host: 'api.perfect-reach.com'
+#  port: 80
+#  use_https: false

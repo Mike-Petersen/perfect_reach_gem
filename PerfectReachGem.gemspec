@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'perfect_reach/version'
 
 Gem::Specification.new do |spec|
-	spec.name = "PerfectReach"
+	spec.name = "perfect_reach"
 	spec.version = PerfectReach::VERSION
 	spec.authors = ["Mike Petersen"]
 	spec.email = ["mike@odania-it.de"]

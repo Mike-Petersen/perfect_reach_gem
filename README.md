@@ -23,6 +23,9 @@ TODO: Write usage instructions here
 Configuration:
 PerfectReach.configure do |config|
 	config.api_key = 'YOUR_API_KEY'
+	config.host = api.perfect-reach.com
+	config.port = 443
+	config.use_https = true
 end
 
 ## Contributing
